@@ -1,6 +1,3 @@
-def get_name():
-    name = input("Enter name: ")
-    surname = input("Enter surname: ")
-    print(name, surname)
+message = "Hello world!"
 
-get_name()
+print(message)
