@@ -1,6 +1,4 @@
-def get_name():
-    name = input("Enter name: ")
-    surname = input("Enter surname: ")
-    print(name, surname)
+def message():
+    message = "Git is awesome!"
 
-get_name()
+message()
